@@ -200,6 +200,7 @@ button:hover{
 }
 #sugestoes textarea {
    resize: none;
+   background-color: #488B4C;
 }
 
 
