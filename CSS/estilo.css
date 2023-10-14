@@ -198,7 +198,7 @@ button:hover{
     display: flex;
     justify-content: flex-end;
 }
-textarea {
+#sugestoes textarea {
    resize: none;
 }
 
