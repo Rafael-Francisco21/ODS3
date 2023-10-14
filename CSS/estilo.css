@@ -198,9 +198,8 @@ button:hover{
     display: flex;
     justify-content: flex-end;
 }
-#sugestoes textarea {
+textarea {
    resize: none;
-   background-color: #488B4C;
 }
 
 
